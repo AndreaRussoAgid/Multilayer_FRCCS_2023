@@ -2,7 +2,7 @@
 Multilayer network with different nodes and edges:
 
 These are some examples of multilayer network creation, starting with the choice of how many words to take, in relation to the Database. 
-We chose 300 words per layer because it is a good balance between understanding the text-topic and the technical limit of gefi and the layers for its observation. 
+We chose 300 words per layer because it is a good balance between understanding the text-topic and the technical limit of Gephi and the layers for its observation. 
 
 
 MultiLayer_1K_nodes_for_Layer.pdf:

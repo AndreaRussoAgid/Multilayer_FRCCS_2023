@@ -17,3 +17,6 @@ Layer_90k_nodes.png:
 The network created through the use of all nodes and edges of only one layer (that of the round of 16, the smallest) shows a clear difficulty both tenically, because the network overruns the boundaries of the graph, and also a difficulty in understanding the text, in order to understand the context-words of the various topics. 
 This is a clear example of the need to limit nodes and edges in order to understand the dynamics of words and topics/contexts. 
 The network shows 90K nodes and 200K edges.
+
+The data may even exceed one GB, depending on their format. 
+But we are willing to share them according to request. 

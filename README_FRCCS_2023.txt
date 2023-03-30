@@ -1,4 +1,5 @@
 We shared these networks in order to show the differences and limitations of the various approaches for our goal, i.e. to display the words showing a network of arguments, for each time layer. 
+This is a descriptive study, and a second phase is planned to validate our approach. 
 
 We appreciate the reviewer's feedback on our study. Our study was designed as a descriptive exploration of the temporal evolution of topics in the context of a specific event. We acknowledge that there is no formal validation of our proposed approach beyond the observed results, and we understand the importance of rigorous validation in scientific research.
 That being said, our study contributes to the understanding of how topic evolution can be visualized and analyzed using a multilayer network approach. We believe that our approach provides a valuable contribution to the field, and offers a useful tool for exploring the temporal dynamics of complex systems.
